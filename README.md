@@ -1,4 +1,4 @@
-# INTRODUCTION
+### INTRODUCTION
 
 I collected a dataset with a collection of products sold between 2020-2021 from different retailers, the dataset contains below columns:
 - Retailer
